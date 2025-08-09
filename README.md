@@ -9,6 +9,8 @@ Aqui você encontrará:
 - 🛠 Pequenas aplicações e protótipos.
 
 
+<div align="center">
+
 ## 💻 Data Tools & Technologies
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
@@ -18,3 +20,4 @@ Aqui você encontrará:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="30" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" />
 
+</div>
