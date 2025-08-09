@@ -1,4 +1,3 @@
-<div align="center">
 # Data Science Playground 🧠📊
 
 Repositório de notebooks criados para estudo e prática de **Ciência de Dados** e **Machine Learning**.
